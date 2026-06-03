@@ -19,15 +19,15 @@ export function Offer() {
             <div className="p-8 sm:p-12">
               <div className="inline-flex items-center gap-2 rounded-full bg-accent text-accent-foreground px-3.5 py-1.5 text-[11px] tracking-[0.16em] uppercase font-medium">
                 <CalendarClock className="size-3.5" />
-                Muaji i hapjes
+                Ofertë e limituar
               </div>
               <h2 className="mt-5 text-[32px] sm:text-[44px] font-display text-foreground text-balance leading-[1.1]">
                 Analizë <span className="italic text-accent">falas</span> e
-                lëkurës gjatë muajit të hapjes.
+                lëkurës për klientet e rinj.
               </h2>
               <p className="mt-5 text-[16px] text-muted-foreground text-pretty">
-                Për muajin e hapjes, Dr. Blerta Clinic ofron analizë profesionale
-                falas të lëkurës për një numër të limituar terminesh.
+                Dr. Blerta Clinic ofron analizë profesionale falas të lëkurës
+                për një numër të limituar terminesh.
               </p>
 
               <div className="mt-8 flex flex-wrap gap-3">
@@ -37,11 +37,11 @@ export function Offer() {
                 </CTAButton>
               </div>
               <p className="mt-5 text-[13px] text-muted-foreground">
-                Terminet për muajin e hapjes janë të limituara.
+                Terminet janë të limituara.
               </p>
             </div>
 
-            <div className="bg-soft-gradient p-8 sm:p-12 border-t lg:border-t-0 lg:border-l border-border">
+            <div className="bg-soft-gradient p-8 sm:p-12">
               <p className="text-[13px] uppercase tracking-[0.18em] text-accent font-medium">
                 Gjatë analizës do të kuptoni
               </p>
