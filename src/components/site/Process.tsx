@@ -69,7 +69,7 @@ export function Process() {
         <div className="mt-12 flex flex-wrap items-center gap-4">
           <CTAButton>Shkruani “ANALIZË” në Instagram</CTAButton>
           <p className="text-[14px] text-muted-foreground">
-            Terminet për muajin e hapjes janë të limituara.
+            Terminet janë të limituara.
           </p>
         </div>
       </div>
