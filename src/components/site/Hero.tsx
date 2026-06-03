@@ -86,12 +86,6 @@ export function Hero() {
             </div>
           </div>
 
-          <div className="hidden sm:flex absolute -right-4 top-10 bg-accent text-accent-foreground rounded-2xl shadow-soft px-4 py-3 flex-col">
-            <span className="text-[11px] uppercase tracking-widest opacity-80">
-              Muaji i hapjes
-            </span>
-            <span className="text-[14px] font-medium">Analizë falas</span>
-          </div>
         </div>
       </div>
     </section>

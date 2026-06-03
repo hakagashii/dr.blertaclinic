@@ -42,7 +42,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "Analizë falas e lëkurës gjatë muajit të hapjes. Rezultate natyrale, qasje individuale, standard mjekësor.",
+          "Analizë falas e lëkurës për klientet e rinj. Rezultate natyrale, qasje individuale, standard mjekësor.",
       },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "/" },

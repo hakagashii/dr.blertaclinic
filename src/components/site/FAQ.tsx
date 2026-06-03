@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     q: "A është analiza falas?",
-    a: "Gjatë muajit të hapjes, analiza e lëkurës ofrohet falas për një numër të limituar terminesh.",
+    a: "Analiza e lëkurës ofrohet falas për një numër të limituar terminesh në periudha të caktuara.",
   },
   {
     q: "A mund të më thotë doktoresha që nuk kam nevojë për trajtim?",

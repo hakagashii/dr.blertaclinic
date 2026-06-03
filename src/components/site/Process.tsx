@@ -53,7 +53,6 @@ export function Process() {
                 <span className="font-display text-[40px] text-accent leading-none">
                   {s.n}
                 </span>
-                <span className="hidden sm:block h-px flex-1 bg-border" />
               </div>
               <div>
                 <h3 className="text-[20px] font-display text-foreground">
@@ -70,7 +69,7 @@ export function Process() {
         <div className="mt-12 flex flex-wrap items-center gap-4">
           <CTAButton>Shkruani “ANALIZË” në Instagram</CTAButton>
           <p className="text-[14px] text-muted-foreground">
-            Terminet për muajin e hapjes janë të limituara.
+            Terminet janë të limituara.
           </p>
         </div>
       </div>
