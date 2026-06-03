@@ -53,7 +53,6 @@ export function Process() {
                 <span className="font-display text-[40px] text-accent leading-none">
                   {s.n}
                 </span>
-                <span className="hidden sm:block h-px flex-1 bg-border" />
               </div>
               <div>
                 <h3 className="text-[20px] font-display text-foreground">
